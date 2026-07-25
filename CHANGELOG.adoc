@@ -1,0 +1,7 @@
+= Changelog
+
+Notable changes to this discussion repository are listed here.
+
+== Timeline
+
+* link:changelog-details/2026-07-25%20-%20initial%20discussion%20hub.adoc[2026-07-25 — Initial discussion hub]

@@ -1,0 +1,7 @@
+= 2026-07-25 — Initial discussion hub
+
+Stood up the public https://github.com/LinxPhotos/discussion[LinxPhotos/discussion] repository as the community Discussions home for tech-savvy fans.
+
+* Enabled GitHub Discussions with Announcements, General, Ideas, Polls, Q&A, and Show and tell
+* Added README describing purpose, categories, and product links
+* Added changelog scaffolding

@@ -1,0 +1,6 @@
+*
+!.gitignore
+!README.adoc
+!CHANGELOG.adoc
+!changelog-details/
+!changelog-details/**

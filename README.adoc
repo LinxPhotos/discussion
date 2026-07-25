@@ -1,0 +1,51 @@
+= LinxPhotos Discussions
+
+Public community hub for https://github.com/LinxPhotos[LinxPhotos] — photo portfolio hosting and tools for photographers.
+
+This repository holds **GitHub Discussions** only (not product source). It is aimed at tech-savvy fans who want to talk shop, share setups, propose ideas, and help shape what we build.
+
+link:https://github.com/LinxPhotos/discussion/discussions[Open Discussions] · link:https://linx.photos/[linx.photos] · link:https://linxphotos.github.io/InstaLay/[InstaLay] · link:https://github.com/LinxPhotos/docs.linx.photos[docs]
+
+== How to participate
+
+1. Open the link:https://github.com/LinxPhotos/discussion/discussions[Discussions] tab.
+2. Pick a category that matches your post.
+3. Search first — someone may already have asked or shared the same thing.
+4. Be concrete: product name, platform, version, and what you expected vs. what happened.
+
+Issues and pull requests for individual products belong in those product repositories, not here.
+
+== Categories
+
+[cols="1,3",options="header"]
+|===
+| Category | Use it for
+
+| *Announcements*
+| Official updates from maintainers
+
+| *General*
+| Open conversation about LinxPhotos, photography workflows, and related tooling
+
+| *Ideas*
+| Feature requests and product direction
+
+| *Q&A*
+| Questions and troubleshooting (community + maintainers)
+
+| *Show and tell*
+| Portfolios, layouts, pipelines, and cool things you built with our tools
+
+| *Polls*
+| Community votes when we need a clear preference
+|===
+
+== Products
+
+* link:https://linx.photos/[Linx Photos] — portfolio hosting
+* link:https://github.com/LinxPhotos/InstaLay[InstaLay] — batch canvas, no-crop framing, and tapestry layouts for Instagram
+* link:https://github.com/LinxPhotos/docs.linx.photos[docs.linx.photos] — documentation
+
+== Changelog
+
+See link:CHANGELOG.adoc[CHANGELOG.adoc].
