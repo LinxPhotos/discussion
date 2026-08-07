@@ -4,19 +4,11 @@ ifndef::env-github[:icons: font]
 :sectanchors:
 endif::[]
 
-ifndef::env-github[]
+[[readme-top]]
 image:https://img.shields.io/github/contributors/LinxPhotos/discussion.svg?style=for-the-badge[Contributors,link=https://github.com/LinxPhotos/discussion/graphs/contributors]
 image:https://img.shields.io/github/forks/LinxPhotos/discussion.svg?style=for-the-badge[Forks,link=https://github.com/LinxPhotos/discussion/network/members]
 image:https://img.shields.io/github/stars/LinxPhotos/discussion.svg?style=for-the-badge[Stars,link=https://github.com/LinxPhotos/discussion/stargazers]
 image:https://img.shields.io/github/issues/LinxPhotos/discussion.svg?style=for-the-badge[Issues,link=https://github.com/LinxPhotos/discussion/issues]
-endif::[]
-
-ifdef::env-github[]
-image:https://img.shields.io/github/contributors/LinxPhotos/discussion.svg?style=for-the-badge[Contributors]
-image:https://img.shields.io/github/forks/LinxPhotos/discussion.svg?style=for-the-badge[Forks]
-image:https://img.shields.io/github/stars/LinxPhotos/discussion.svg?style=for-the-badge[Stars]
-image:https://img.shields.io/github/issues/LinxPhotos/discussion.svg?style=for-the-badge[Issues]
-endif::[]
 
 = LinxPhotos Discussions
 
@@ -31,6 +23,8 @@ link:https://github.com/LinxPhotos/discussion/issues[Report Bug]
 Public community hub for https://github.com/LinxPhotos[LinxPhotos] — photo portfolio hosting and tools for photographers.
 
 This repository holds **GitHub Discussions** only (not product source). It is aimed at tech-savvy fans who want to talk shop, share setups, propose ideas, and help shape what we build.
+
+link:#readme-top[back to top]
 
 == Usage
 
@@ -74,9 +68,13 @@ Issues and pull requests for individual products belong in those product reposit
 * link:https://github.com/LinxPhotos/InstaLay[InstaLay] — batch canvas, no-crop framing, and tapestry layouts for Instagram
 * link:https://github.com/LinxPhotos/docs.linx.photos[docs.linx.photos] — documentation
 
+link:#readme-top[back to top]
+
 == Contact
 
 Linx Photos — support@linx.photos
 
 * Project: https://github.com/LinxPhotos/discussion
 * Site: https://linx.photos
+
+link:#readme-top[back to top]
