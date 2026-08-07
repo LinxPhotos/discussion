@@ -2,9 +2,30 @@ ifndef::env-github[:icons: font]
 :toc: preamble
 :toclevels: 2
 :sectanchors:
+
+ifdef::env-github[]
+++++
+<a id="readme-top"></a>
+<div align="center">
+<a href="https://github.com/LinxPhotos/discussion/graphs/contributors"><img src="https://img.shields.io/github/contributors/LinxPhotos/discussion.svg?style=for-the-badge" alt="Contributors"></a>
+<a href="https://github.com/LinxPhotos/discussion/network/members"><img src="https://img.shields.io/github/forks/LinxPhotos/discussion.svg?style=for-the-badge" alt="Forks"></a>
+<a href="https://github.com/LinxPhotos/discussion/stargazers"><img src="https://img.shields.io/github/stars/LinxPhotos/discussion.svg?style=for-the-badge" alt="Stars"></a>
+<a href="https://github.com/LinxPhotos/discussion/issues"><img src="https://img.shields.io/github/issues/LinxPhotos/discussion.svg?style=for-the-badge" alt="Issues"></a>
+<br />
+<h3 align="center">LinxPhotos Discussions</h3>
+<p align="center">
+Public community hub for tech-savvy fans of LinxPhotos photo tools.<br /><br />
+<a href="https://github.com/LinxPhotos/discussion/discussions">Open Discussions</a>
+&middot;
+<a href="https://linx.photos/">linx.photos</a>
+&middot;
+<a href="https://github.com/LinxPhotos/discussion/issues">Report Bug</a>
+</p>
+</div>
+++++
 endif::[]
 
-[[readme-top]]
+ifndef::env-github[]
 image:https://img.shields.io/github/contributors/LinxPhotos/discussion.svg?style=for-the-badge[Contributors,link=https://github.com/LinxPhotos/discussion/graphs/contributors]
 image:https://img.shields.io/github/forks/LinxPhotos/discussion.svg?style=for-the-badge[Forks,link=https://github.com/LinxPhotos/discussion/network/members]
 image:https://img.shields.io/github/stars/LinxPhotos/discussion.svg?style=for-the-badge[Stars,link=https://github.com/LinxPhotos/discussion/stargazers]
@@ -14,9 +35,12 @@ image:https://img.shields.io/github/issues/LinxPhotos/discussion.svg?style=for-t
 
 Public community hub for tech-savvy fans of LinxPhotos photo tools.
 
-link:https://github.com/LinxPhotos/discussion/discussions[Open Discussions] ·
-link:https://linx.photos/[linx.photos] ·
+link:https://github.com/LinxPhotos/discussion/discussions[Open Discussions] 
+· 
+link:https://linx.photos/[linx.photos] 
+· 
 link:https://github.com/LinxPhotos/discussion/issues[Report Bug]
+endif::[]
 
 == About The Project
 
@@ -24,7 +48,9 @@ Public community hub for https://github.com/LinxPhotos[LinxPhotos] — photo por
 
 This repository holds **GitHub Discussions** only (not product source). It is aimed at tech-savvy fans who want to talk shop, share setups, propose ideas, and help shape what we build.
 
-link:#readme-top[back to top]
+++++
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+++++
 
 == Usage
 
@@ -68,7 +94,9 @@ Issues and pull requests for individual products belong in those product reposit
 * link:https://github.com/LinxPhotos/InstaLay[InstaLay] — batch canvas, no-crop framing, and tapestry layouts for Instagram
 * link:https://github.com/LinxPhotos/docs.linx.photos[docs.linx.photos] — documentation
 
-link:#readme-top[back to top]
+++++
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+++++
 
 == Contact
 
@@ -77,4 +105,6 @@ Linx Photos — support@linx.photos
 * Project: https://github.com/LinxPhotos/discussion
 * Site: https://linx.photos
 
-link:#readme-top[back to top]
+++++
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+++++
