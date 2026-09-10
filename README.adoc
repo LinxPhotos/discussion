@@ -92,7 +92,7 @@ Issues and pull requests for individual products belong in those product reposit
 
 * link:https://linx.photos/[Linx Photos] — portfolio hosting
 * link:https://github.com/LinxPhotos/InstaLay[InstaLay] — batch canvas, no-crop framing, and tapestry layouts for Instagram
-* link:https://github.com/LinxPhotos/docs.linx.photos[docs.linx.photos] — documentation
+* link:https://docs.linx.photos/[docs.linx.photos] — documentation (repo: link:https://github.com/LinxPhotos/docs[LinxPhotos/docs])
 
 ++++
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
